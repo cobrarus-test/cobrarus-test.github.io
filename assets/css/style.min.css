@@ -19,3 +19,7 @@ header{
   background-clip: initial;
   background-color: initial;
 }
+
+.text-rec > p {
+  color: white;
+}
