@@ -1,12 +1,3 @@
-/*body {
-    background-color: black;
-    font-size: 21px;
-    color: white;
-}
-header{
-   background-color: black; 
-}
-*/
 .uk-navbar {
   background-image: linear-gradient(135deg, white 0%, white 25%, #f5f7fa 25%, #f5f7fa 35%, #f5f7fa 52%, white 52%, #f5f7fa 65%, white 65%, white 100%);
   background-position-x: initial;
